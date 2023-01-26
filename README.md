@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/PranaMohanty13/web102_prework_Prana-Mohanty/blob/main/prework_walkthrough.gif' />
 
 
 [ScreenToGif](https://www.screentogif.com/) for Windows
